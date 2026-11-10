@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="GREENSCREEN_MENU" header="GREENSCREEN" category="ADDONS">GreenScreen_Menu()</Binding>
+	<Binding name="GREENSCREEN_TOGGLE" category="ADDONS">GreenScreen_Toggle()</Binding>
+	<Binding name="GREENSCREEN_MINIMAP" category="ADDONS">GreenScreen_MinimapOnly()</Binding>
+	<Binding name="GREENSCREEN_ISOLATE" category="ADDONS">GreenScreen_Isolate()</Binding>
+	<Binding name="GREENSCREEN_CYCLE" category="ADDONS">GreenScreen_Cycle()</Binding>
+	<Binding name="GREENSCREEN_SHOT" category="ADDONS">GreenScreen_Shot()</Binding>
+</Bindings>

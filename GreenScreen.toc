@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: |cff00b140Green|rScreen
+## Notes: Solid-colour backdrop behind the UI (green, blue, magenta, black, white, grey or custom) for clean screenshots of addon windows. Can hide all other UI except the minimap or one window.
+## Author: EmberCatz
+## Version: 1.1.0
+## IconTexture: Interface\AddOns\GreenScreen\media\Icon
+## SavedVariables: GreenScreenDB
+## AddonCompartmentFunc: GreenScreen_OnAddonCompartmentClick
+
+Theme.lua
+GreenScreen.lua
+MinimapButton.lua
+Menu.lua
+Bindings.xml
