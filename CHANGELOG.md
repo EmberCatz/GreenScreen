@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Fix 19 "Unrecognized XML" warnings in FrameXML.log at login: Bindings.xml was listed in the TOC, but the client loads it by itself.
+
 ## 1.1.0
 
 First public release.
